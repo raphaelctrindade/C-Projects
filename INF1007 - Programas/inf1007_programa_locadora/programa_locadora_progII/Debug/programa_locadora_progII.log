@@ -1,0 +1,17 @@
+﻿Build started 28/09/2013 21:33:41.
+     1>Project "G:\Programas - C#\Projetos\programa_locadora_progII\programa_locadora_progII\programa_locadora_progII.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\programa_locadora_progII.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Programas - C#\Projetos\programa_locadora_progII\Debug\programa_locadora_progII.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\programa_locadora_progII.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Programas - C#\Projetos\programa_locadora_progII\Debug\programa_locadora_progII.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Programas - C#\Projetos\programa_locadora_progII\Debug\programa_locadora_progII.lib" /MACHINE:X86 Debug\programa_locadora_progII.exe.embed.manifest.res
+         Debug\main.obj
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "G:\Programas - C#\Projetos\programa_locadora_progII\programa_locadora_progII\programa_locadora_progII.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.20
