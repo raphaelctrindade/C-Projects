@@ -1,0 +1,5 @@
+ID: 1124 - Duração chamada: 5.6
+ID: 4127 - Duração chamada: 9.5
+ID: 9440 - Duração chamada: 53.4
+========================================================
+Duração Geral:68.5
