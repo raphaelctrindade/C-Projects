@@ -1,18 +1,18 @@
 # C-Projects :.:.:.:.:.:.:.:.
 
-###### INF1007 - Programas
+## INF1007 - Programas
 
 - Vários programas para treinar os métodos e técnicas''
 	
 ***
 
-###### Material para estudo
+## Material para estudo
 
 - Slides de estudo
 
 ***
 
-###### Projetos
+## Projetos
 
  * **calculo_imc**: *Calcula o indice de massa corporal*
  * **capacidade_container**: *Verifica quanto falta para o container ficar cheio*
